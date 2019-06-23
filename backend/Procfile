@@ -1,0 +1,1 @@
+web: waitress-serve --port=$PORT fhpa_auxiliary_5057.wsgi:application

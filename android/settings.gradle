@@ -1,0 +1,3 @@
+rootProject.name = 'fhpa_auxiliary_5057'
+
+include ':app'
